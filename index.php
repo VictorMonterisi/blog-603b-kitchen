@@ -1,13 +1,14 @@
 <?php
     include "includes/core.php";
     include "includes/head.php";
-    include "includes/header.php";
 ?>
 
 <body>
+    <?php include "includes/header.php";?>
+    <main>
 
+    </main>
+    <?php include "includes/footer.php"; ?>
 </body>
-
-<?php include "includes/footer.php"; ?>
 
 </html>

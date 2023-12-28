@@ -1,5 +1,5 @@
 <?php
-    $_SERVER['HTTPS'] = "temp";
+    $_SERVER['HTTPS'] = "temp"; // Apagar quando for online
     require "vendor/autoload.php";
     
 
