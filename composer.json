@@ -1,0 +1,8 @@
+{
+    "name":"blog-603b-kitchen/blog-603b-kitchen",
+    "autoload":{
+        "psr-4":{
+            "Classes\\":"Classes/"
+        }
+    }
+}
